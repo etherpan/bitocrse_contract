@@ -1,4 +1,4 @@
 # bitocrse_contract
 this is contract info of bitcorse finance
 
-0x125D4a6C369f0ddD64351fdF8e1baA3218fb0B1A
+[0x1342C1d4b6459687239812b73B451fAdf733e27E](https://bscscan.com/address/0x1342C1d4b6459687239812b73B451fAdf733e27E)
